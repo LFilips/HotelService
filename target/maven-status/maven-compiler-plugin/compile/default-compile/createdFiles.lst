@@ -1,0 +1,9 @@
+com/hotels/resources/HotelListResource.class
+com/hotels/service/DataProvider.class
+com/hotels/storage/DataStorage.class
+com/hotels/domain/Hotel$Builder.class
+com/hotels/resources/HotelDetailsResources.class
+com/hotels/domain/HotelList.class
+com/hotels/storage/DataStorage$1.class
+com/hotels/domain/Hotel.class
+com/hotels/HotelServiceApplication.class
